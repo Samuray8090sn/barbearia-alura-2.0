@@ -2,7 +2,7 @@ body {
   
 }
 
-#banner {
+#fotinha {
   width:100%;
 }
 
@@ -35,7 +35,7 @@ em strong {
   font-style: italic
 }
 
-.beneficios {
+.fotona {
   background: #FFFFFF;
   padding: 20px;
 }
@@ -47,6 +47,6 @@ ul {
   margin-right: 15%;
 }
 
-.imagembeneficios {
+.fotona {
   width: 50%;
 }
